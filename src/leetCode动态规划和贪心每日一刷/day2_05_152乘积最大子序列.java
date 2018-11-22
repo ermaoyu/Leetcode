@@ -1,4 +1,4 @@
-package leetCode动态规划每日一刷;
+package leetCode动态规划和贪心每日一刷;
 
 /**
  *      毛毛雨     2018/11/3
